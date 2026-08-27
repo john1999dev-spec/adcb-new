@@ -152,13 +152,13 @@ const NewPhoneRegistration = () => {
                                 className="flex items-center gap-2 pr-3 border-r border-gray-300"
                             >
                                 <img
-                                    src={flag} // Put the Oman flag in your public/images folder
-                                    alt="Oman"
+                                    src={flag} // Put the UAE flag in your public/images folder
+                                    alt="UAE"
                                     className="w-6 h-4 object-cover rounded-sm"
                                 />
 
                                 <span className="text-sm font-medium text-gray-700">
-                                    (+968)
+                                    (+971)
                                 </span>
 
                                 <svg
