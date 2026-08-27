@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { ArrowLeft, Info, ScanLine, CreditCard } from "lucide-react";
-import flag from "../src/assets/flag.webp";
+import flag from "../src/assets/uaeflag.webp";
 import { useNavigate } from "react-router-dom";
 import logo from "../src/assets/adcb.jpg";
 const NewPhoneRegistration = () => {
